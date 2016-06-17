@@ -1,5 +1,5 @@
-**Spring & Struts project**
+**Struts example project**
 
-Simple project to test Struts and Spring in a web application.
+Simple hello world web app using maven and struts.
 
-Reference for the Struts part of the application: http://www.mkyong.com/struts/struts-hello-world-example/
+Reference: http://www.mkyong.com/struts/struts-hello-world-example/
